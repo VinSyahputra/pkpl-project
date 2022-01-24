@@ -15,7 +15,7 @@
         <div class="card-header bg-pink text-white">
             <i class="fas fa-table me-1"></i>
             <?php date_default_timezone_set("Asia/Jakarta"); ?>
-            RESUME (<?= date('d-m-Y'); ?>)
+            TODAY (<?= date('d-m-Y'); ?>)
         </div>
         <div class="card-body">
             <table id="datatablesSimple">
