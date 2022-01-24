@@ -1,0 +1,1 @@
+{"version":1,"defects":{"KalkulatorTest::test_fungsi_tambah":4,"DateTest::test_tampilan":4},"times":{"KalkulatorTest::test_fungsi_tambah":0.01,"KalkulatorTest::test_fungsi_luas":0.072,"DateTest::test_fungsi_luas":0.471,"DateTest::test_fungsi_selisih":0.018,"DateTest::test_tampilan":0.001}}
